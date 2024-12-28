@@ -14,3 +14,7 @@ hkunlp/instructor-large
 and run ask_pdf.py
 
 !python XXXXX.py
+#############################################
+ask your pdf in colab t4 gpu
+ask_pdf_gpu.ipynb
+################################################
